@@ -1,0 +1,37 @@
+body {
+	background-color: black
+	color: white;
+	font-family: helvetica;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 44pt;
+	color: black;
+	padding: 40pt 0pt 40pt 0pt;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 22pt;
+	font-family: helvetica;
+	color: black;
+	font-weight: bold;
+	padding: 40pt 0pt 16pt 0pt;
+}
+
+p {
+	line-height: 18pt;
+}
+
+.paragraph {
+	font-family: helvetica;
+	font-size: 12pt;
+	width: 100%;
+	background-color: black;
+}
+
+.container1 {
+	margin: auto;
+	width: 1000px;
+}
